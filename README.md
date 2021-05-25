@@ -1,6 +1,6 @@
 # Marketing-Analysis
 
-<b> The graphs which are plotted using Plotly cannot be displayed in Github. Visit <i>https://nbviewer.jupyter.org/github/tejaslinge/Marketing-Analysis/blob/main/Analysis.ipynb</i> to view the complete Jupyter notebook. <b>
+<b> The graphs which are plotted using Plotly cannot be displayed in Github. Visit <i>https://nbviewer.jupyter.org/github/tejaslinge/Marketing-Analysis/blob/main/Analysis.ipynb</i> to view the complete Jupyter notebook. </b>
 
 This project demonstrates how to perform EDA on marketing campaign data and make future marketing performance predictions.
 
